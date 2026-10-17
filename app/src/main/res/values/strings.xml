@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen-Off Guard</string>
+    <string name="service_description">Detects when a protected app is in the foreground so it can show a local PIN screen after the screen turns off.</string>
+</resources>
